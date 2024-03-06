@@ -2,9 +2,9 @@ import turtle
 wn = turtle.Screen()        
 wn.bgcolor("darkgreen")
 
-Linda = turtle.Turtle()     # loo linda ja pliiatsi laius
-Linda.pensize(7)             # muutuja nime muutmine -> Settings - Preferences - Editing - Multi-Editing Settings CTRL Key and click with the mouse the values
-Linda.color("white")        # kommentaar käib notepad++ , programm kirjutatud 16.02.2021
+Linda = turtle.Turtle()     
+Linda.pensize(7)             
+Linda.color("white")        
 
 Kalev = turtle.Turtle()
 Kalev.pensize(7)
